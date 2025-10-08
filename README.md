@@ -20,6 +20,10 @@ Here you’ll find:  Python games &amp; projects – fun and interactive applica
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
+<h2> 🎓 My Certificates:</h2>
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
