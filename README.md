@@ -29,6 +29,13 @@ Here you’ll find:  Python games &amp; projects – fun and interactive applica
 
 [linkedin]: https://linkedin.com/in/joshmadakor
 
+Copyright (c) 2025 Nishchay
+
+All Rights Reserved.
+
+No part of this repository, including source code, assets, documentation and related files, may be reproduced, distributed, publicly displayed, or created into derivative works without the prior written permission of the copyright owner.
+
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
