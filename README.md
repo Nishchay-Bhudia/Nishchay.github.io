@@ -1,5 +1,5 @@
-Welcome to my portfolio! Here you’ll find:  Python games &amp; projects – fun and interactive applications built from scratch.  PyTorch projects &amp; AI fine-tuning – exploring LLMs, CNNs, and custom AI models.  EEG project – experimenting with brain-computer interfaces and signal analysis.
-<h1>Hi, I'm Nishchay! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">AI and Machine Learning Enthusiast</a></h1>
+Here you’ll find:  Python games &amp; projects – fun and interactive applications built from scratch.  PyTorch projects &amp; AI fine-tuning – exploring LLMs, CNNs, and custom AI models.  EEG project – experimenting with brain-computer interfaces and signal analysis.
+<h1>Hi, I'm Nishchay! Welcome to my Portfolio <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">AI and Machine Learning Enthusiast</a></h1>
 
 <h2>👨‍💻 Coding Projects:</h2>
 
