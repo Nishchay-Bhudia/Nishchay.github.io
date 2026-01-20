@@ -33,7 +33,7 @@ Here you’ll find:  Python games &amp; projects – fun and interactive applica
 
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-Copyright (c) 2025 Nishchay
+Copyright (c) 2026 Nishchay Bhudia
 
 All Rights Reserved.
 
