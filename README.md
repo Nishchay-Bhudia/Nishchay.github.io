@@ -3,20 +3,20 @@ Here you’ll find:  Python games &amp; projects – fun and interactive applica
 
 <h2>👨‍💻 Coding Projects:</h2>
 
-- <b>AI IMAGE CLASSIFIER - EMOTIONS</b>
+- <b>AI IMAGE CLASSIFIER - EMOTIONS 😀 ☹️</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>UNBEATABLE (MINIMAX) NAUGHTS AND CROSSES AI</b>
+- <b>UNBEATABLE ⚡😤 (MINIMAX) NAUGHTS AND CROSSES AI </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>MACHINE LEARNING ALGORITHMS</b>
+- <b>MACHINE LEARNING ALGORITHMS 🤖</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>RASPBERRY PI ATTENDANCE LOGGER - AI VISION</b>
+- <b>RASPBERRY PI 🍓💻 ATTENDANCE LOGGER - AI VISION</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>PYGAME PLATFORMER - GCSE PROJECT</b>
+- <b>PYGAME PLATFORMER 🕹️ - GCSE PROJECT</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
