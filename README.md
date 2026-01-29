@@ -5,8 +5,8 @@ Here you’ll find:  Python games &amp; projects – fun and interactive applica
 
 - <b>AI IMAGE CLASSIFIER - EMOTIONS 😀 ☹️</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>UNBEATABLE ⚡😤 (MINIMAX) NAUGHTS AND CROSSES AI </b>
-  - [Image Analysis Middleware](https://github.com/Nishchay-Bhudia/Minimax-Tic-Tac-Toe.git) <b><i>(Potentially NSFW)</b></i>
+- <b>UNBEATABLE ⚡😤 (MINIMAX) TIC TAC TOE AI </b>
+  - [MINIMAX TIC TAC TOE](https://github.com/Nishchay-Bhudia/Minimax-Tic-Tac-Toe.git) 
 - <b>MACHINE LEARNING ALGORITHMS 🤖</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
