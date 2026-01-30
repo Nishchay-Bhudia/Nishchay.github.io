@@ -17,7 +17,7 @@ Here you’ll find:  Python games &amp; projects – fun and interactive applica
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>PYGAME PLATFORMER 🕹️ - GCSE PROJECT</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Impossible Platformer Game](https://github.com/Nishchay-Bhudia/Impossible-Platformer-Game.git)
 
 
 <h2> 🎓 My Certificates:</h2>
