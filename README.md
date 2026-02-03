@@ -18,6 +18,8 @@ Here you’ll find:  Python games &amp; projects – fun and interactive applica
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>PYGAME PLATFORMER 🕹️ - GCSE PROJECT</b>
   - [Impossible Platformer Game](https://github.com/Nishchay-Bhudia/Impossible-Platformer-Game.git)
+- <b>SEARCHING AND SORTING ALGORITHMS 💻<\b>
+  - [Searching and Sorting Algorithms](https://github.com/Nishchay-Bhudia/Sorting-and-Search-algorithms.git)
 
 
 <h2> 🎓 My Certificates:</h2>
