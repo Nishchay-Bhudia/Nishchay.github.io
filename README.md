@@ -4,7 +4,7 @@ Here you’ll find:  Python games &amp; projects. PyTorch projects &amp; AI fine
 <h2> Coding Projects:</h2>
 
 - <b>AI IMAGE CLASSIFIER - EMOTIONS 😀 </b>
-  - [Yet to be uploaded]()
+  - [Emotions CNN](https://github.com/Nishchay-Bhudia/Emotions-Classifier-CNN.git)
 - <b>UNBEATABLE 😤 (MINIMAX) TIC TAC TOE AI </b>
   - [MINIMAX TIC TAC TOE](https://github.com/Nishchay-Bhudia/Minimax-Tic-Tac-Toe.git) 
 - <b>MACHINE LEARNING ALGORITHMS 🤖</b>
