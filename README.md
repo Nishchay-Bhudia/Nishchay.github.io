@@ -9,7 +9,7 @@ Here you’ll find:  Python games &amp; projects. PyTorch projects &amp; AI fine
   - [MINIMAX TIC TAC TOE](https://github.com/Nishchay-Bhudia/Minimax-Tic-Tac-Toe.git) 
 - <b>MACHINE LEARNING ALGORITHMS 🤖</b>
   - [Linear Progression](https://github.com/Nishchay-Bhudia/Linear-Progression.git)
-  - [Logical Progression]()
+  - [Logical Progression](https://github.com/Nishchay-Bhudia/Logical-Regression.git)
 - <b>PYGAME PLATFORMER 🕹️ - GCSE PROJECT</b>
   - [Impossible Platformer Game](https://github.com/Nishchay-Bhudia/Impossible-Platformer-Game.git)
 - <b>SEARCHING AND SORTING ALGORITHMS 💻<\b>
