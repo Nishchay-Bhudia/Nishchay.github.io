@@ -12,7 +12,7 @@ Here you’ll find:  Python games &amp; projects. PyTorch projects &amp; AI fine
   - [Logical Progression](https://github.com/Nishchay-Bhudia/Logical-Regression.git)
 - <b>PYGAME PLATFORMER 🕹️ - GCSE PROJECT</b>
   - [Impossible Platformer Game](https://github.com/Nishchay-Bhudia/Impossible-Platformer-Game.git)
-- <b>SEARCHING AND SORTING ALGORITHMS 💻<\b>
+- <b>SEARCHING AND SORTING ALGORITHMS 💻</b>
   - [Searching and Sorting Algorithms](https://github.com/Nishchay-Bhudia/Sorting-and-Search-algorithms.git)
 
 
