@@ -14,8 +14,8 @@ Here you’ll find:  Python games &amp; projects. PyTorch projects &amp; explori
   - [Impossible Platformer Game](https://github.com/Nishchay-Bhudia/Impossible-Platformer-Game.git)
 - <b>SEARCHING AND SORTING ALGORITHMS 💻</b>
   - [Searching and Sorting Algorithms](https://github.com/Nishchay-Bhudia/Sorting-and-Search-algorithms.git)
-- <b>PREDICITION PROGRAMS 📈</b>
-  - [Searching and Sorting Algorithms](https://github.com/Nishchay-Bhudia/WORLD-CUP-MATCH-OUTCOME-)
+- <b>PREDICITION ALGORITHM - WORLD CUP 📈</b>
+  - [World Cup Match Predictor - 2026](https://github.com/Nishchay-Bhudia/WORLD-CUP-MATCH-OUTCOME-)
 
 
 
