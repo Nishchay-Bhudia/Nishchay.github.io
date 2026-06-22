@@ -1,4 +1,4 @@
-Here you’ll find:  Python games &amp; projects. PyTorch projects &amp; exploring LLMs, CNNs, SMLs.  
+Here you’ll find:  TypeScript and Python games &amp; projects. PyTorch projects &amp; exploring LLMs, CNNs, SMLs.  
 <h1>Hi, I'm Nishchay! Welcome to my Portfolio <br/><a href="https://github.com/Nishchay-Bhudia/Nishchay.github.io.git">Programmer</a>, <a href="https://linkedin.com/in/NishchayBhudia">AI and Machine Learning Enthusiast</a></h1>
 
 <h2> Coding Projects:</h2>
