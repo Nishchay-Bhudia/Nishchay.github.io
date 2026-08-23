@@ -1,43 +1,37 @@
-Here you’ll find:  TypeScript and Python games &amp; projects. PyTorch projects &amp; exploring LLMs, CNNs, SMLs.  
-<h1>Hi, I'm Nishchay! Welcome to my Portfolio <br/><a href="https://github.com/Nishchay-Bhudia/Nishchay.github.io.git">Programmer</a>, <a href="https://linkedin.com/in/NishchayBhudia">AI and Machine Learning Enthusiast</a></h1>
+# Nishchay.github.io
 
-<h2> Coding Projects:</h2>
+My first portfolio, from when a portfolio meant a README full of links. It is superseded.
+I am keeping it because the links still work and older references point here, not because
+it represents what I build now.
 
-- <b>AI IMAGE CLASSIFIER - EMOTIONS 😀 </b>
-  - [Emotions CNN](https://github.com/Nishchay-Bhudia/Emotions-Classifier-CNN.git)
-- <b>UNBEATABLE 😤 (MINIMAX) TIC TAC TOE AI </b>
-  - [MINIMAX TIC TAC TOE](https://github.com/Nishchay-Bhudia/Minimax-Tic-Tac-Toe.git) 
-- <b>MACHINE LEARNING ALGORITHMS 🤖</b>
-  - [Linear Regression](https://github.com/Nishchay-Bhudia/Linear-Progression.git)
-  - [Logical Regression](https://github.com/Nishchay-Bhudia/Logical-Regression.git)
-- <b>PYGAME PLATFORMER 🕹️ - GCSE PROJECT</b>
-  - [Impossible Platformer Game](https://github.com/Nishchay-Bhudia/Impossible-Platformer-Game.git)
-- <b>SEARCHING AND SORTING ALGORITHMS 💻</b>
-  - [Searching and Sorting Algorithms](https://github.com/Nishchay-Bhudia/Sorting-and-Search-algorithms.git)
-- <b>PREDICITION ALGORITHM - WORLD CUP 📈</b>
-  - [World Cup Match Predictor - 2026](https://github.com/Nishchay-Bhudia/WORLD-CUP-MATCH-OUTCOME-)
+Worth saying plainly: despite the name, this repo has never served a web page. There is no
+`index.html` in it, and the repo name does not match my GitHub username, which is what
+GitHub Pages needs for a user site. It has always just been this file.
 
+The replacement is a proper site in Next.js and TypeScript. It is not finished yet. The
+planning for it is public in [learning-log](https://github.com/Nishchay-Bhudia/learning-log).
 
+## Projects linked from here
 
-<h2> My Certificates!:</h2>
+- [Emotions Classifier CNN](https://github.com/Nishchay-Bhudia/Emotions-Classifier-CNN.git), image classification with PyTorch
+- [Minimax Tic Tac Toe](https://github.com/Nishchay-Bhudia/Minimax-Tic-Tac-Toe.git), an opponent that cannot be beaten
+- [Linear Regression](https://github.com/Nishchay-Bhudia/Linear-Regression) and [Logical Regression](https://github.com/Nishchay-Bhudia/Logical-Regression.git), the algorithms written out rather than imported
+- [Impossible Platformer Game](https://github.com/Nishchay-Bhudia/Impossible-Platformer-Game.git), Pygame, my GCSE project
+- [Sorting and Searching Algorithms](https://github.com/Nishchay-Bhudia/Sorting-and-Search-algorithms.git)
+- [World Cup Match Predictor](https://github.com/Nishchay-Bhudia/WORLD-CUP-MATCH-OUTCOME-), 2026
 
+The Linear Regression link in the previous version of this file pointed at
+`Linear-Progression`, which does not exist. Fixed above.
 
+Newer work, and a better sense of what I am doing currently, is on my
+[profile](https://github.com/Nishchay-Bhudia) directly.
 
+[LinkedIn](https://linkedin.com/in/NishchayBhudia)
 
-<h2> Connect with me!:</h2>
+## Licence
 
+Copyright (c) 2026 Nishchay Bhudia. All rights reserved.
 
-[<img align="left" alt="NishchayBhudia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/NishchayBhudia
-
-
-Copyright (c) 2026 Nishchay Bhudia
-
-All Rights Reserved.
-
-No part of this repository, including source code, assets, documentation and related files, may be reproduced, distributed, publicly displayed, or created into derivative works without the prior written permission of the copyright owner.
-
-
-
+No part of this repository, including source code, assets, documentation and related files,
+may be reproduced, distributed, publicly displayed, or created into derivative works
+without the prior written permission of the copyright owner.
